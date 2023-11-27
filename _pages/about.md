@@ -7,5 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a first-year PhD student at the School of Engineering in the University of Edinburgh, supervised by Dr. Elliot J. Crowley and Dr. Shay Cohen. I am a member of the BayesWatch group.
 
-I'm a first year PhD student in the Department of Engineering at University of Edinburgh. My research interest is the efficient training of Large Language Models.
+My research focuses on the efficient training of Large Language Models.
+
+Previously, I received my First Class MSci degree in Computer Science (Artificial Intelligence) from King's College London.

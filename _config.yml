@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shiwen Qin / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Shiwen Qin"
+name                     : &name "Shiwen Qin (秦诗文)"
 description              : &description "personal description"
 url                      : https://shiwenqin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
